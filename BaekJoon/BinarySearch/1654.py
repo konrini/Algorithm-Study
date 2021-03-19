@@ -20,4 +20,3 @@ while start <= end:
     elif answer >= K:
         start = mid + 1
 print(end)
-print(start)
